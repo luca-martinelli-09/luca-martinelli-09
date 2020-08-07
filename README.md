@@ -23,6 +23,8 @@ You can transform your tomatoes in tomato sauce. This way you will climb Google 
 ### Pomodorini
 Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will you catch them all? Probably not, many brand new ones will be created!
 
+<br>
+
 [<img alt="Visit website" style="margin-right: 15px" width="55px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/logo.svg">][websitePomodorino]
 [<img alt="Avaiable on Google Play Store" width="180px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
 
