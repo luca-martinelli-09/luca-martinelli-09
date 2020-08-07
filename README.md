@@ -11,6 +11,7 @@
 [<img align="left" alt="Luca Martinelli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Luca Martinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Luca Martinelli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Luca Martinelli | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spotify.svg" />][spotify]
 
 <br />
 <br />
@@ -48,6 +49,7 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 [twitter]: https://twitter.com/LucaMartinelli0
 [linkedin]: https://www.linkedin.com/in/luca-martinelli/
 [instagram]: https://www.instagram.com/luca.martinelli.09/
+[spotify]: https://open.spotify.com/user/martinelli_luca_official
 [websitePomodorino]: https://lucamartinelli.hopto.org/PomodorinoApp
 [pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
 [siteUniPDIE]: https://didattica.unipd.it/off/2017/LT/IN/IN0513
