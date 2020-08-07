@@ -4,7 +4,7 @@
 - 👨‍💻 Web Developer - [Portfolio][website]
 - 🎓 [Information Engineering][siteUniPDIE] (graduated in 2020)
 - 🎓 [Computer Engineering][siteUniPDCE] (currently)
-- 🎵 Clarinetist
+- 🎵 Clarinetist at [Banda di Sona][siteCBS]
 
 # Pomodorino 🍅
 Stay focused and grow your tomatoes!
@@ -34,3 +34,4 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 [pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
 [siteUniPDIE]: https://didattica.unipd.it/off/2017/LT/IN/IN0513
 [siteUniPDCE]: https://didattica.unipd.it/off/2020/LM/IN/IN2547
+[siteCBS]: https://www.bandadisona.it
