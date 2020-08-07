@@ -28,9 +28,9 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 [<img alt="Visit website" style="margin-right: 15px" width="55px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/logo.svg">][websitePomodorino]
 [<img alt="Avaiable on Google Play Store" width="180px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
 
-[websiteGit]: https://github.com/luca-martinelli-09/
-[website]: https://lucamartinelli.hopto.org/
-[websitePomodorino]: https://lucamartinelli.hopto.org/PomodorinoApp/
-[pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino/
+[websiteGit]: https://github.com/luca-martinelli-09
+[website]: https://lucamartinelli.hopto.org
+[websitePomodorino]: https://lucamartinelli.hopto.org/PomodorinoApp
+[pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
 [siteUniPDIE]: https://didattica.unipd.it/off/2017/LT/IN/IN0513
 [siteUniPDCE]: https://didattica.unipd.it/off/2020/LM/IN/IN2547
