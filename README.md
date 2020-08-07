@@ -6,6 +6,14 @@
 - 🎓 [Computer Engineering][siteUniPDCE] (currently)
 - 🎵 Clarinetist at [Banda di Sona][siteCBS]
 
+# Follow me
+[<img align="left" alt="lucamartinelli.hopto.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Luca Martinelli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Luca Martinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Luca Martinelli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
+
 # Pomodorino 🍅
 Stay focused and grow your tomatoes!
 
@@ -28,8 +36,15 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 [<img alt="Visit website" style="margin-right: 15px" width="55px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/logo.svg">][websitePomodorino]
 [<img alt="Avaiable on Google Play Store" width="180px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
 
+---
+
+<img alt="Luca Martinelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&show_icons=true&hide_border=true" />
+
 [websiteGit]: https://github.com/luca-martinelli-09
 [website]: https://lucamartinelli.hopto.org
+[twitter]: https://twitter.com/LucaMartinelli0
+[linkedin]: https://www.linkedin.com/in/luca-martinelli/
+[instagram]: https://www.instagram.com/luca.martinelli.09/
 [websitePomodorino]: https://lucamartinelli.hopto.org/PomodorinoApp
 [pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
 [siteUniPDIE]: https://didattica.unipd.it/off/2017/LT/IN/IN0513
