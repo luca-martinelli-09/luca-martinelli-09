@@ -1,4 +1,4 @@
-### Luca Martinelli - [luca-martinelli-09][website]
+### Luca Martinelli - [luca-martinelli-09][websiteGit]
 
 # About me
 - 👨‍💻 Web Developer
@@ -23,4 +23,7 @@ You can transform your tomatoes in tomato sauce. This way you will climb Google 
 ### Pomodorini
 Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will you catch them all? Probably not, many brand new ones will be created!
 
-<img alt="Avaiable on Google Play Store" width="200px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/google-play-badge.svg">
+[<img alt="Avaiable on Google Play Store" width="200px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
+
+[websiteGit]: https://github.com/luca-martinelli-09
+[pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
