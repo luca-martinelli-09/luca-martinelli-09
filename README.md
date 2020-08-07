@@ -16,7 +16,7 @@
 <br />
 <br />
 
-# 🚀 Apps
+# 🧬 Apps
 
 ## Pomodorino 🍅
 Stay focused and grow your tomatoes!
