@@ -1,12 +1,12 @@
 ### Luca Martinelli - [luca-martinelli-09][websiteGit]
 
-# About me
+# ℹ About me
 - 👨‍💻 Web Developer - [Portfolio][website]
 - 🎓 [Information Engineering][siteUniPDIE] (graduated in 2020)
 - 🎓 [Computer Engineering][siteUniPDCE] (currently)
 - 🎵 Clarinetist at [Banda di Sona][siteCBS]
 
-# Follow me
+# ❤ Follow me
 [<img align="left" alt="lucamartinelli.hopto.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Luca Martinelli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Luca Martinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-# Apps
+# 🚀 Apps
 
 ## Pomodorino 🍅
 Stay focused and grow your tomatoes!
@@ -43,8 +43,9 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 <br />
 <br />
 
-# 🎙 Latest podcast's episodes
+# 🎙 Podcast
 ### [INSiDER - Dentro la Tecnologia][siteINSiDER]
+### Latest episodes
 <!-- INSIDER:START -->
 <!-- INSIDER:END -->
 
