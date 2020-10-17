@@ -47,11 +47,11 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 ## [INSiDER - Dentro la Tecnologia][siteINSiDER]
 ### Latest episodes
 <!-- INSIDER:START -->
+- [epiCura: il poliambulatorio digitale e su misura](https://www.dentrolatecnologia.it/S2E42)
 - [I pericoli e le potenzialità dei deepfake](https://www.dentrolatecnologia.it/S2E41)
 - [VivoGreen: il primo negozio senza casse in Italia](https://www.dentrolatecnologia.it/S2E40)
 - [Tecnologie per una mobilità stradale più sicura](https://www.dentrolatecnologia.it/S2E39)
 - [Tutela Digitale: il valore della reputazione online](https://www.dentrolatecnologia.it/S2E38)
-- [Il Sole in una stanza](https://www.dentrolatecnologia.it/S2E37)
 <!-- INSIDER:END -->
 
 ---
