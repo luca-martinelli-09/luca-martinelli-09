@@ -47,7 +47,7 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 ## [INSiDER - Dentro la Tecnologia][siteINSiDER]
 ### Latest episodes
 <!-- INSIDER:START -->
-- [Gimme5: l'app che incentiva il risparmio](https://www.dentrolatecnologia.it/S2E46)
+- [Gimme5: l’app che incentiva il risparmio](https://www.dentrolatecnologia.it/S2E46)
 - [L’era del turismo spaziale](https://www.dentrolatecnologia.it/S2E45)
 - [C’è vita digitale dopo la morte?](https://www.dentrolatecnologia.it/S2E44)
 - [La democrazia in pericolo, tra voto elettronico e fake news](https://www.dentrolatecnologia.it/S2E43)
