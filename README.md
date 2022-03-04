@@ -37,8 +37,8 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 
 <br />
 
-[<img alt="Visit website" style="margin-right: 15px" width="55px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/logo.svg">][websitePomodorino]
-[<img alt="Avaiable on Google Play Store" width="180px" src="https://lucamartinelli.hopto.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
+[<img alt="Visit website" style="margin-right: 15px" width="55px" src="https://lucamartinelli.eu.org/PomodorinoApp/style/res/logo.svg">][websitePomodorino]
+[<img alt="Avaiable on Google Play Store" width="180px" src="https://lucamartinelli.eu.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
 
 <br />
 <br />
@@ -59,12 +59,12 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 <img alt="Luca Martinelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&show_icons=true&hide_border=true" />
 
 [websiteGit]: https://github.com/luca-martinelli-09
-[website]: https://lucamartinelli.hopto.org
+[website]: https://lucamartinelli.eu.org
 [twitter]: https://twitter.com/LucaMartinelli0
 [linkedin]: https://www.linkedin.com/in/luca-martinelli/
 [instagram]: https://www.instagram.com/luca.martinelli.09/
 [spotify]: https://open.spotify.com/user/martinelli_luca_official
-[websitePomodorino]: https://lucamartinelli.hopto.org/PomodorinoApp
+[websitePomodorino]: https://lucamartinelli.eu.org/PomodorinoApp
 [pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
 [siteUniPDIE]: https://didattica.unipd.it/off/2017/LT/IN/IN0513
 [siteUniPDCE]: https://didattica.unipd.it/off/2020/LM/IN/IN2547
