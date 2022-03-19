@@ -47,11 +47,11 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 ## [INSiDER - Dentro la Tecnologia][siteINSiDER]
 ### Latest episodes
 <!-- INSIDER:START -->
+- [TrueScreen: l’app che certifica i nostri contenuti digitali](https://www.dentrolatecnologia.it/S4E12)
 - [Internet of Behavior: il costo per una vita migliore](https://www.dentrolatecnologia.it/S4E11)
 - [Free2move eSolutions: rendere facile la mobilità elettrica](https://www.dentrolatecnologia.it/S4E10)
 - [Il futuro del trasporto ferroviario](https://www.dentrolatecnologia.it/S4E9)
 - [Pariter Partners: investire nelle tecnologie di frontiera](https://www.dentrolatecnologia.it/S4E8)
-- [Il miglior design? È quello che non si vede](https://www.dentrolatecnologia.it/S4E7)
 <!-- INSIDER:END -->
 
 ---
