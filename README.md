@@ -56,7 +56,7 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 
 ---
 
-<img alt="Luca Martinelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&show_icons=true&hide_border=true" />
+<img alt="Luca Martinelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&show_icons=true&hide_border=true&bg_color=-25,25241c,9250c1&title_color=fff&text_color=fff" />
 
 [websiteGit]: https://github.com/luca-martinelli-09
 [website]: https://lucamartinelli.eu.org
