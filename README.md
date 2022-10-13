@@ -3,7 +3,7 @@
 # ℹ About me
 - 👨‍💻 Web Developer - [Portfolio][website]
 - 🎓 [Information Engineering][siteUniPDIE] (graduated in 2020)
-- 🎓 [Computer Engineering][siteUniPDCE] (currently)
+- 🎓 [Computer Engineering][siteUniPDCE] (graduated in 2022)
 - 🎵 Clarinetist at [Banda di Sona][siteCBS]
 
 # ❤ Follow me
