@@ -1,5 +1,3 @@
-### Luca Martinelli - [luca-martinelli-09](https://github.com/luca-martinelli-09)
-
 # 💫 About Me
 👨‍💻 Web Developer - [Portfolio](https://lucamartinelli.eu.org)<br>
 🎓 [Information Engineering](https://didattica.unipd.it/off/2017/LT/IN/IN0513) (graduated in 2020)<br>
