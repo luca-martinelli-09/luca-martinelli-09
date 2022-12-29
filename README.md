@@ -13,19 +13,8 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luca-martinelli-09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-martinelli-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=luca-martinelli-09&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luca-martinelli-09&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=luca-martinelli-09&icon=4&color=4)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MartinelliLuca) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🎙 Podcast
