@@ -1,50 +1,37 @@
-### Luca Martinelli - [luca-martinelli-09][websiteGit]
+### Luca Martinelli - [luca-martinelli-09](https://github.com/luca-martinelli-09)
 
-# ℹ About me
-- 👨‍💻 Web Developer - [Portfolio][website]
-- 🎓 [Information Engineering][siteUniPDIE] (graduated in 2020)
-- 🎓 [Computer Engineering][siteUniPDCE] (graduated in 2022)
-- 🎵 Clarinetist at [Banda di Sona][siteCBS]
+# 💫 About Me
+👨‍💻 Web Developer - [Portfolio](https://lucamartinelli.eu.org)<br>
+🎓 [Information Engineering](https://didattica.unipd.it/off/2017/LT/IN/IN0513) (graduated in 2020)<br>
+🎓 [Computer Engineering](https://didattica.unipd.it/off/2020/LM/IN/IN2547) (graduated in 2022)<br>
+🎵 Clarinetist at [Banda di Sona](https://www.bandadisona.it)
 
-# ❤ Follow me
-[<img align="left" alt="lucamartinelli.hopto.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Luca Martinelli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Luca Martinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Luca Martinelli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Luca Martinelli | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spotify.svg" />][spotify]
 
-<br />
-<br />
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luca.martinelli.09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-martinelli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lucamartinelli09) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/martinelli_luca) 
 
-# 🧬 Apps
+# 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-## Pomodorino 🍅
-Stay focused and grow your tomatoes!
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luca-martinelli-09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-martinelli-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Sessions
-A timer will show you how much longer you have to stay focused, and avoid using your smartphone, every time you start a new session.
-Once you have reached your goal, your collection will gain a tomato. The harder you work, the more you have the chance to get rare and special ones. 
-But beware: if you use your phone during the session, Pomodorino will not be happy and you will get a rotten tomato.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=luca-martinelli-09&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### Daily summary
-You can see your sessions daily, find out which tomatoes you gained and how long you’ve stayed focused. Our garden will grow even bigger soon and the session charts will be improved so... expect the best.
+---
+[![](https://visitcount.itsvg.in/api?id=luca-martinelli-09&icon=4&color=4)](https://visitcount.itsvg.in)
 
-### Rankings
-You can transform your tomatoes in tomato sauce. This way you will climb Google Play Games rankings. Who will make the most sauce?
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MartinelliLuca) 
 
-### Pomodorini
-Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will you catch them all? Probably not, many brand new ones will be created!
-
-<br />
-
-[<img alt="Visit website" style="margin-right: 15px" width="55px" src="https://lucamartinelli.eu.org/PomodorinoApp/style/res/logo.svg">][websitePomodorino]
-[<img alt="Avaiable on Google Play Store" width="180px" src="https://lucamartinelli.eu.org/PomodorinoApp/style/res/google-play-badge.svg">][pomodorinoPlayStore]
-
-<br />
-<br />
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 🎙 Podcast
-## [INSiDER - Dentro la Tecnologia][siteINSiDER]
+## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
 - [LEGO: la tecnologia al servizio della creatività](https://www.dentrolatecnologia.it/S4E52)
@@ -53,20 +40,3 @@ Pomodorino, Pomodorina, Baby Pomodorino, Grandpa, Grandma and many others. Will 
 - [Smartwatch per sport estremi, un settore in continua evoluzione](https://www.dentrolatecnologia.it/S4E49)
 - [AVM: soluzioni per Internet veloce in tutta la casa](https://www.dentrolatecnologia.it/S4E48)
 <!-- INSIDER:END -->
-
----
-
-<img alt="Luca Martinelli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luca-martinelli-09&show_icons=true&hide_border=true&bg_color=-25,25241c,9250c1&title_color=fff&text_color=fff" />
-
-[websiteGit]: https://github.com/luca-martinelli-09
-[website]: https://lucamartinelli.eu.org
-[twitter]: https://twitter.com/LucaMartinelli0
-[linkedin]: https://www.linkedin.com/in/luca-martinelli/
-[instagram]: https://www.instagram.com/luca.martinelli.09/
-[spotify]: https://open.spotify.com/user/martinelli_luca_official
-[websitePomodorino]: https://lucamartinelli.eu.org/PomodorinoApp
-[pomodorinoPlayStore]: https://play.google.com/store/apps/details?id=com.lucamartinelli.pomodorino
-[siteUniPDIE]: https://didattica.unipd.it/off/2017/LT/IN/IN0513
-[siteUniPDCE]: https://didattica.unipd.it/off/2020/LM/IN/IN2547
-[siteCBS]: https://www.bandadisona.it
-[siteINSiDER]: https://www.dentrolatecnologia.it
