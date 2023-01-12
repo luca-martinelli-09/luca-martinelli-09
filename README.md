@@ -1,7 +1,7 @@
 # 💫 About Me
 👨‍💻 Web Developer - [Portfolio](https://lucamartinelli.eu.org)<br>
-🎓 [Information Engineering](https://didattica.unipd.it/off/2017/LT/IN/IN0513) (graduated in 2020)<br>
-🎓 [Computer Engineering](https://didattica.unipd.it/off/2020/LM/IN/IN2547) (graduated in 2022)<br>
+🎓 [Information Engineering](https://bestr.it/award/show/983f5rFeRzyeA3slIbskjA) (graduated in 2020)<br>
+🎓 [Computer Engineering](https://bestr.it/award/show/E1cezcb8RUGN-l59t_AYjQ) (graduated in 2022)<br>
 🎵 Clarinetist at [Banda di Sona](https://www.bandadisona.it)
 
 
