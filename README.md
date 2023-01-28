@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Security Trust: l’innovazione a bordo dei trasporti turistici](https://www.dentrolatecnologia.it/S5E4)
 - [Pulire il cielo dai rifiuti spaziali](https://www.dentrolatecnologia.it/S5E3)
 - [Technogym: il fitness sempre a portata di mano](https://www.dentrolatecnologia.it/S5E2)
 - [Cosa aspettarsi dal 2023](https://www.dentrolatecnologia.it/S5E1)
 - [LEGO: la tecnologia al servizio della creatività](https://www.dentrolatecnologia.it/S4E52)
-- [La profilazione online è utile, se usata bene](https://www.dentrolatecnologia.it/S4E51)
 <!-- INSIDER:END -->
