@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [La crisi del cinema nell’era digitale](https://www.dentrolatecnologia.it/S5E7)
 - [Wikicasa: come sta cambiando il modo di comprare casa?](https://www.dentrolatecnologia.it/S5E6)
 - [Tor e Mysterium VPN, per navigare il web anonimamente](https://www.dentrolatecnologia.it/S5E5)
 - [Security Trust: l’innovazione a bordo dei trasporti turistici](https://www.dentrolatecnologia.it/S5E4)
 - [Pulire il cielo dai rifiuti spaziali](https://www.dentrolatecnologia.it/S5E3)
-- [Technogym: il fitness sempre a portata di mano](https://www.dentrolatecnologia.it/S5E2)
 <!-- INSIDER:END -->
