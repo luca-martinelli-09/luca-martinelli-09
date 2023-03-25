@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Zamperla: l’arte di costruire giostre, tra tecnologia e artigianato](https://www.dentrolatecnologia.it/S5E12)
 - [Digitalizzare per promuovere una cultura senza confini](https://www.dentrolatecnologia.it/S5E11)
 - [Sodexo BRS Italia: i buoni pasto e il welfare diventano digitali](https://www.dentrolatecnologia.it/S5E10)
 - [La memoria dell&#39;umanità, dalla pietra allo Spazio](https://www.dentrolatecnologia.it/S5E9)
 - [Istat: l’importanza di raccogliere dati di qualità](https://www.dentrolatecnologia.it/S5E8)
-- [La crisi del cinema nell’era digitale](https://www.dentrolatecnologia.it/S5E7)
 <!-- INSIDER:END -->
