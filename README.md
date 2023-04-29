@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Web3 o 3.0, quale strada percorrerà il Web del domani?](https://www.dentrolatecnologia.it/S5E17)
 - [Amazon: il lavoro in un centro di distribuzione robotizzato](https://www.dentrolatecnologia.it/S5E16)
 - [eFuels e bioFuels, come cambierà la mobilità dal 2035](https://www.dentrolatecnologia.it/S5E15)
 - [WeWard: l’app che ricompensa l’attività fisica](https://www.dentrolatecnologia.it/S5E14)
 - [Creare siti e app senza scrivere codice, è possibile?](https://www.dentrolatecnologia.it/S5E13)
-- [Zamperla: l’arte di costruire giostre, tra tecnologia e artigianato](https://www.dentrolatecnologia.it/S5E12)
 <!-- INSIDER:END -->
