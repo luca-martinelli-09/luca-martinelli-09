@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [ICELab: una catena di produzione flessibile per l&#39;industria 4.0](https://www.dentrolatecnologia.it/S5E18)
 - [Web3 o 3.0, quale strada percorrerà il Web del domani?](https://www.dentrolatecnologia.it/S5E17)
 - [Amazon: il lavoro in un centro di distribuzione robotizzato](https://www.dentrolatecnologia.it/S5E16)
 - [eFuels e bioFuels, come cambierà la mobilità dal 2035](https://www.dentrolatecnologia.it/S5E15)
 - [WeWard: l’app che ricompensa l’attività fisica](https://www.dentrolatecnologia.it/S5E14)
-- [Creare siti e app senza scrivere codice, è possibile?](https://www.dentrolatecnologia.it/S5E13)
 <!-- INSIDER:END -->
