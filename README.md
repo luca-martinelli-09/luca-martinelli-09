@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Le tecnologie al servizio della nostra sicurezza](https://www.dentrolatecnologia.it/S5E19)
 - [ICELab: una catena di produzione flessibile per l&#39;industria 4.0](https://www.dentrolatecnologia.it/S5E18)
 - [Web3 o 3.0, quale strada percorrerà il Web del domani?](https://www.dentrolatecnologia.it/S5E17)
 - [Amazon: il lavoro in un centro di distribuzione robotizzato](https://www.dentrolatecnologia.it/S5E16)
 - [eFuels e bioFuels, come cambierà la mobilità dal 2035](https://www.dentrolatecnologia.it/S5E15)
-- [WeWard: l’app che ricompensa l’attività fisica](https://www.dentrolatecnologia.it/S5E14)
 <!-- INSIDER:END -->
