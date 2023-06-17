@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [La tecnologia può abbattere le barriere fisiche e digitali?](https://www.dentrolatecnologia.it/S5E24)
 - [Starship e Hyperloop, dalla fantascienza alla realtà](https://www.dentrolatecnologia.it/S5E23)
 - [The Verge: le sfide del giornalismo tech nell&#39;epoca dei social](https://www.dentrolatecnologia.it/S5E22)
 - [P@ssw0rd? Esistono sistemi migliori](https://www.dentrolatecnologia.it/S5E21)
 - [SiWeGO: il trasporto condiviso e sostenibile per le nostre merci](https://www.dentrolatecnologia.it/S5E20)
-- [Le tecnologie al servizio della nostra sicurezza](https://www.dentrolatecnologia.it/S5E19)
 <!-- INSIDER:END -->
