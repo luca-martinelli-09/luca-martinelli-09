@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Leonardo: come nascono gli strumenti di osservazione spaziale?](https://www.dentrolatecnologia.it/S5E28)
 - [Sicurezza pubblica e bodycam, un binomio indispensabile](https://www.dentrolatecnologia.it/S5E27)
 - [AgID: una Pubblica Amministrazione digitale vicina ai cittadini](https://www.dentrolatecnologia.it/S5E26)
 - [Supercomputer o Quantum Computer, chi guiderà il futuro?](https://www.dentrolatecnologia.it/S5E25)
 - [La tecnologia può abbattere le barriere fisiche e digitali?](https://www.dentrolatecnologia.it/S5E24)
-- [Starship e Hyperloop, dalla fantascienza alla realtà](https://www.dentrolatecnologia.it/S5E23)
 <!-- INSIDER:END -->
