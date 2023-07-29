@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [City quitter e nomadi digitali, si può lavorare ovunque?](https://www.dentrolatecnologia.it/S5E30)
 - [Come funziona la PEC? E serve davvero?](https://www.dentrolatecnologia.it/S5E29)
 - [Leonardo: come nascono gli strumenti di osservazione spaziale?](https://www.dentrolatecnologia.it/S5E28)
 - [Sicurezza pubblica e bodycam, un binomio indispensabile](https://www.dentrolatecnologia.it/S5E27)
 - [AgID: una Pubblica Amministrazione digitale vicina ai cittadini](https://www.dentrolatecnologia.it/S5E26)
-- [Supercomputer o Quantum Computer, chi guiderà il futuro?](https://www.dentrolatecnologia.it/S5E25)
 <!-- INSIDER:END -->
