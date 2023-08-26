@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Agricoltura ecosostenibile, grazie all’Orto di Nemo](https://www.dentrolatecnologia.it/S5E34)
 - [Il sistema di allarme nazionale IT-alert](https://www.dentrolatecnologia.it/S5E33)
 - [L’Intelligenza Artificiale ha invaso Internet](https://www.dentrolatecnologia.it/S5E32)
 - [La piccola grande tecnologia dietro agli Xylobands](https://www.dentrolatecnologia.it/S5E31)
 - [City quitter e nomadi digitali, si può lavorare ovunque?](https://www.dentrolatecnologia.it/S5E30)
-- [Come funziona la PEC? E serve davvero?](https://www.dentrolatecnologia.it/S5E29)
 <!-- INSIDER:END -->
