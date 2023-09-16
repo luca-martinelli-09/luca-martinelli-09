@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Come funziona la stampa 3D?](https://www.dentrolatecnologia.it/S5E37)
 - [CERN: dati, simulazioni e IA per esplorare l&#39;infinitamente piccolo](https://www.dentrolatecnologia.it/S5E36)
 - [IMAX e 70mm, la rinascita dell&#39;esperienza cinematografica](https://www.dentrolatecnologia.it/S5E35)
 - [Agricoltura ecosostenibile, grazie all’Orto di Nemo](https://www.dentrolatecnologia.it/S5E34)
 - [Il sistema di allarme nazionale IT-alert](https://www.dentrolatecnologia.it/S5E33)
-- [L’Intelligenza Artificiale ha invaso Internet](https://www.dentrolatecnologia.it/S5E32)
 <!-- INSIDER:END -->
