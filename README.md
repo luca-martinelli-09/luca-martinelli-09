@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [SIM e carte di credito? Non sono altro che piccoli computer](https://www.dentrolatecnologia.it/S5E41)
 - [Leonardo: l’innovazione nei cieli con droni e velivoli senza pilota](https://www.dentrolatecnologia.it/S5E40)
 - [I progressi e le sfide per un futuro a guida autonoma](https://www.dentrolatecnologia.it/S5E39)
 - [Midland: radio e tecnologia per la sicurezza in camper](https://www.dentrolatecnologia.it/S5E38)
 - [Come funziona la stampa 3D?](https://www.dentrolatecnologia.it/S5E37)
-- [CERN: dati, simulazioni e IA per esplorare l&#39;infinitamente piccolo](https://www.dentrolatecnologia.it/S5E36)
 <!-- INSIDER:END -->
