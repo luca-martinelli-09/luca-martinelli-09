@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Perché le previsioni del tempo sono sempre sbagliate?](https://www.dentrolatecnologia.it/S5E45)
 - [Oversonic: RoBee, il robot cognitivo che affianca lavoratori e pazienti](https://www.dentrolatecnologia.it/S5E44)
 - [VAR e Goal Line, un supporto tecnologico alle decisioni arbitrali](https://www.dentrolatecnologia.it/S5E43)
 - [Shopify: il sistema operativo per un commercio senza confini](https://www.dentrolatecnologia.it/S5E42)
 - [SIM e carte di credito? Non sono altro che piccoli computer](https://www.dentrolatecnologia.it/S5E41)
-- [Leonardo: l’innovazione nei cieli con droni e velivoli senza pilota](https://www.dentrolatecnologia.it/S5E40)
 <!-- INSIDER:END -->
