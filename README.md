@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Dijkstra, l&#39;algoritmo alla base di Google Maps](https://www.dentrolatecnologia.it/S5E49)
 - [INGV: sensori e IA, come funziona il monitoraggio di un terremoto](https://www.dentrolatecnologia.it/S5E48)
 - [Il LiDAR, uno strumento dalle infinite applicazioni](https://www.dentrolatecnologia.it/S5E47)
 - [WINDTRE: il ruolo dell’innovazione nel settore delle telecomunicazioni](https://www.dentrolatecnologia.it/S5E46)
 - [Perché le previsioni del tempo sono sempre sbagliate?](https://www.dentrolatecnologia.it/S5E45)
-- [Oversonic: RoBee, il robot cognitivo che affianca lavoratori e pazienti](https://www.dentrolatecnologia.it/S5E44)
 <!-- INSIDER:END -->
