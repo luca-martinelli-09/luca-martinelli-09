@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Il fediverso potrà cambiare i social network per sempre](https://www.dentrolatecnologia.it/S6E3)
 - [Binance: il ruolo della blockchain nel sistema finanziario](https://www.dentrolatecnologia.it/S6E2)
 - [Cosa aspettarsi dal 2024](https://www.dentrolatecnologia.it/S6E1)
 - [VAIA: fondere natura e tecnologia per creare prodotti unici](https://www.dentrolatecnologia.it/S5E52)
 - [L&#39;incontro tra modellismo e automazione a Miniatur Wunderland](https://www.dentrolatecnologia.it/S5E51)
-- [H2E: integrare l’idrogeno nei processi produttivi e logistici](https://www.dentrolatecnologia.it/S5E50)
 <!-- INSIDER:END -->
