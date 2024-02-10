@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Thoughtworks: la percezione delle persone sul futuro dell’IA generativa](https://www.dentrolatecnologia.it/S6E6)
 - [L&#39;educazione digitale come motore della società contemporanea](https://www.dentrolatecnologia.it/S6E5)
 - [Jet HR: la piattaforma che semplifica la burocrazia per le imprese](https://www.dentrolatecnologia.it/S6E4)
 - [Il fediverso potrà cambiare i social network per sempre](https://www.dentrolatecnologia.it/S6E3)
 - [Binance: il ruolo della blockchain nel sistema finanziario](https://www.dentrolatecnologia.it/S6E2)
-- [Cosa aspettarsi dal 2024](https://www.dentrolatecnologia.it/S6E1)
 <!-- INSIDER:END -->
