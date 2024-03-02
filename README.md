@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [L’Italia in prima linea per lo sviluppo delle smart road](https://www.dentrolatecnologia.it/S6E9)
 - [CNAO: fisica e tecnologia per trattamenti oncologici mirati](https://www.dentrolatecnologia.it/S6E8)
 - [La connessione mente-macchina è alle porte](https://www.dentrolatecnologia.it/S6E7)
 - [Thoughtworks: la percezione delle persone sul futuro dell’IA generativa](https://www.dentrolatecnologia.it/S6E6)
 - [L&#39;educazione digitale come motore della società contemporanea](https://www.dentrolatecnologia.it/S6E5)
-- [Jet HR: la piattaforma che semplifica la burocrazia per le imprese](https://www.dentrolatecnologia.it/S6E4)
 <!-- INSIDER:END -->
