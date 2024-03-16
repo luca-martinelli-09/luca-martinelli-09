@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Le app in futuro saranno solo sul web](https://www.dentrolatecnologia.it/S6E11)
 - [Blimp: l’analisi del mondo reale per prendere decisioni più mirate](https://www.dentrolatecnologia.it/S6E10)
 - [L’Italia in prima linea per lo sviluppo delle smart road](https://www.dentrolatecnologia.it/S6E9)
 - [CNAO: fisica e tecnologia per trattamenti oncologici mirati](https://www.dentrolatecnologia.it/S6E8)
 - [La connessione mente-macchina è alle porte](https://www.dentrolatecnologia.it/S6E7)
-- [Thoughtworks: la percezione delle persone sul futuro dell’IA generativa](https://www.dentrolatecnologia.it/S6E6)
 <!-- INSIDER:END -->
