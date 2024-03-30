@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Il Neourbanesimo come filosofia per lo sviluppo delle città](https://www.dentrolatecnologia.it/S6E13)
 - [Axon: taser e bodycam per tutelare forze dell’ordine e cittadini](https://www.dentrolatecnologia.it/S6E12)
 - [Le app in futuro saranno solo sul web](https://www.dentrolatecnologia.it/S6E11)
 - [Blimp: l’analisi del mondo reale per prendere decisioni più mirate](https://www.dentrolatecnologia.it/S6E10)
 - [L’Italia in prima linea per lo sviluppo delle smart road](https://www.dentrolatecnologia.it/S6E9)
-- [CNAO: fisica e tecnologia per trattamenti oncologici mirati](https://www.dentrolatecnologia.it/S6E8)
 <!-- INSIDER:END -->
