@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Come possiamo salvare le specie in via di estinzione?](https://www.dentrolatecnologia.it/S6E15)
 - [Esri Italia: il ruolo dei dati geospaziali nella pianificazione territoriale](https://www.dentrolatecnologia.it/S6E14)
 - [Il Neourbanesimo come filosofia per lo sviluppo delle città](https://www.dentrolatecnologia.it/S6E13)
 - [Axon: taser e bodycam per tutelare forze dell’ordine e cittadini](https://www.dentrolatecnologia.it/S6E12)
 - [Le app in futuro saranno solo sul web](https://www.dentrolatecnologia.it/S6E11)
-- [Blimp: l’analisi del mondo reale per prendere decisioni più mirate](https://www.dentrolatecnologia.it/S6E10)
 <!-- INSIDER:END -->
