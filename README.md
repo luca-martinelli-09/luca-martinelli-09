@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Suunto: l&#39;evoluzione degli sport watch e degli strumenti per attività all&#39;aperto](https://www.dentrolatecnologia.it/S6E20)
 - [Contrastare contenuti illegali online? Non è così semplice](https://www.dentrolatecnologia.it/S6E19)
 - [UNGUESS: alla ricerca della miglior esperienza utente](https://www.dentrolatecnologia.it/S6E18)
 - [Il futuro del vino nelle mani dell’innovazione](https://www.dentrolatecnologia.it/S6E17)
 - [Trenitalia: biglietti digitali e dati al servizio del viaggiatore](https://www.dentrolatecnologia.it/S6E16)
-- [Come possiamo salvare le specie in via di estinzione?](https://www.dentrolatecnologia.it/S6E15)
 <!-- INSIDER:END -->
