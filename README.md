@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [APTUS.AI: le opportunità della regulatory tech nel settore finanziario](https://www.dentrolatecnologia.it/S6E24)
 - [L&#39;Intelligenza Artificiale ha reso il Web 3.0 obsoleto?](https://www.dentrolatecnologia.it/S6E23)
 - [BKN301: soluzioni fintech per promuovere lo sviluppo economico globale](https://www.dentrolatecnologia.it/S6E22)
 - [Le strategie per la colonizzazione della Luna](https://www.dentrolatecnologia.it/S6E21)
 - [Suunto: l&#39;evoluzione degli sport watch e degli strumenti per attività all&#39;aperto](https://www.dentrolatecnologia.it/S6E20)
-- [Contrastare contenuti illegali online? Non è così semplice](https://www.dentrolatecnologia.it/S6E19)
 <!-- INSIDER:END -->
