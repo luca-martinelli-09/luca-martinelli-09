@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Coinnect: le difficoltà di assicurare le PMI dai rischi cyber](https://www.dentrolatecnologia.it/S6E28)
 - [RCS, lo standard per la messaggistica del futuro](https://www.dentrolatecnologia.it/S6E27)
 - [Gilardoni: come i raggi X hanno rivoluzionato i controlli aeroportuali](https://www.dentrolatecnologia.it/S6E26)
 - [Le nuove frontiere della cucina domotica](https://www.dentrolatecnologia.it/S6E25)
 - [APTUS.AI: le opportunità della regulatory tech nel settore finanziario](https://www.dentrolatecnologia.it/S6E24)
-- [L&#39;Intelligenza Artificiale ha reso il Web 3.0 obsoleto?](https://www.dentrolatecnologia.it/S6E23)
 <!-- INSIDER:END -->
