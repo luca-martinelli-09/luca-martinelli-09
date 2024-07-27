@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Cyclomedia: dati visivi per la mappatura dell’ambiente che ci circonda](https://www.dentrolatecnologia.it/S6E30)
 - [Come gli effetti speciali hanno trasformato l’industria del cinema](https://www.dentrolatecnologia.it/S6E29)
 - [Coinnect: le difficoltà di assicurare le PMI dai rischi cyber](https://www.dentrolatecnologia.it/S6E28)
 - [RCS, lo standard per la messaggistica del futuro](https://www.dentrolatecnologia.it/S6E27)
 - [Gilardoni: come i raggi X hanno rivoluzionato i controlli aeroportuali](https://www.dentrolatecnologia.it/S6E26)
-- [Le nuove frontiere della cucina domotica](https://www.dentrolatecnologia.it/S6E25)
 <!-- INSIDER:END -->
