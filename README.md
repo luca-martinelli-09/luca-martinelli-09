@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [IT-Wallet, documenti con valore legale nell&#39;app IO](https://www.dentrolatecnologia.it/S6E33)
 - [Il travagliato progetto della navicella Starliner](https://www.dentrolatecnologia.it/S6E32)
 - [I computer non sanno cos’è la casualità](https://www.dentrolatecnologia.it/S6E31)
 - [Cyclomedia: dati visivi per la mappatura dell’ambiente che ci circonda](https://www.dentrolatecnologia.it/S6E30)
 - [Come gli effetti speciali hanno trasformato l’industria del cinema](https://www.dentrolatecnologia.it/S6E29)
-- [Coinnect: le difficoltà di assicurare le PMI dai rischi cyber](https://www.dentrolatecnologia.it/S6E28)
 <!-- INSIDER:END -->
