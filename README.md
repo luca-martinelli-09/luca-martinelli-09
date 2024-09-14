@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Terapie digitali contro i disturbi del sonno](https://www.dentrolatecnologia.it/S6E37)
 - [Commissione europea: l&#39;AI Act per uno sviluppo responsabile dell&#39;IA](https://www.dentrolatecnologia.it/S6E36)
 - [Project Natick e i data center del futuro](https://www.dentrolatecnologia.it/S6E35)
 - [Scandire il tempo con gli orologi atomici](https://www.dentrolatecnologia.it/S6E34)
 - [IT-Wallet, documenti con valore legale nell&#39;app IO](https://www.dentrolatecnologia.it/S6E33)
-- [Il travagliato progetto della navicella Starliner](https://www.dentrolatecnologia.it/S6E32)
 <!-- INSIDER:END -->
