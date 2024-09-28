@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Anatomia dell&#39;IA generativa, dagli anni &#39;60 ad oggi](https://www.dentrolatecnologia.it/S6E39)
 - [STIGA: robot tagliaerba ed elettrificazione per la cura del giardino](https://www.dentrolatecnologia.it/S6E38)
 - [Terapie digitali contro i disturbi del sonno](https://www.dentrolatecnologia.it/S6E37)
 - [Commissione europea: l&#39;AI Act per uno sviluppo responsabile dell&#39;IA](https://www.dentrolatecnologia.it/S6E36)
 - [Project Natick e i data center del futuro](https://www.dentrolatecnologia.it/S6E35)
-- [Scandire il tempo con gli orologi atomici](https://www.dentrolatecnologia.it/S6E34)
 <!-- INSIDER:END -->
