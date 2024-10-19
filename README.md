@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [ENAV: l’evoluzione del controllo del traffico aereo](https://www.dentrolatecnologia.it/S6E42)
 - [Come nasce un programma spaziale di difesa planetaria](https://www.dentrolatecnologia.it/S6E41)
 - [STMicroelectronics: come nascono i chip che muovono il mondo](https://www.dentrolatecnologia.it/S6E40)
 - [Anatomia dell&#39;IA generativa, dagli anni &#39;60 ad oggi](https://www.dentrolatecnologia.it/S6E39)
 - [STIGA: robot tagliaerba ed elettrificazione per la cura del giardino](https://www.dentrolatecnologia.it/S6E38)
-- [Terapie digitali contro i disturbi del sonno](https://www.dentrolatecnologia.it/S6E37)
 <!-- INSIDER:END -->
