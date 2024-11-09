@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Next gen, il futuro delle console non è qui](https://www.dentrolatecnologia.it/S6E45)
 - [ASML: la litografia per chip ai confini della fisica](https://www.dentrolatecnologia.it/S6E44)
 - [La tecnologia non sostituirà i giochi da tavolo](https://www.dentrolatecnologia.it/S6E43)
 - [ENAV: l’evoluzione del controllo del traffico aereo](https://www.dentrolatecnologia.it/S6E42)
 - [Come nasce un programma spaziale di difesa planetaria](https://www.dentrolatecnologia.it/S6E41)
-- [STMicroelectronics: come nascono i chip che muovono il mondo](https://www.dentrolatecnologia.it/S6E40)
 <!-- INSIDER:END -->
