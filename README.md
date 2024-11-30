@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Cosmico: l’incontro tra talenti e aziende facilitato dall’IA](https://www.dentrolatecnologia.it/S6E48)
 - [Quando la tecnologia si intreccia con il tessuto](https://www.dentrolatecnologia.it/S6E47)
 - [AWARE: come l’IA può rendere più efficiente il sistema fiscale](https://www.dentrolatecnologia.it/S6E46)
 - [Next gen, il futuro delle console non è qui](https://www.dentrolatecnologia.it/S6E45)
 - [ASML: la litografia per chip ai confini della fisica](https://www.dentrolatecnologia.it/S6E44)
-- [La tecnologia non sostituirà i giochi da tavolo](https://www.dentrolatecnologia.it/S6E43)
 <!-- INSIDER:END -->
