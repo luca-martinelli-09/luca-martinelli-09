@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Gli algoritmi che ci conoscono meglio di quanto pensiamo](https://www.dentrolatecnologia.it/S6E51)
 - [UNGUESS: il ruolo dei test di performance nell’esperienza digitale](https://www.dentrolatecnologia.it/S6E50)
 - [Riprogettare gli imballaggi per salvare il pianeta](https://www.dentrolatecnologia.it/S6E49)
 - [Cosmico: l’incontro tra talenti e aziende facilitato dall’IA](https://www.dentrolatecnologia.it/S6E48)
 - [Quando la tecnologia si intreccia con il tessuto](https://www.dentrolatecnologia.it/S6E47)
-- [AWARE: come l’IA può rendere più efficiente il sistema fiscale](https://www.dentrolatecnologia.it/S6E46)
 <!-- INSIDER:END -->
