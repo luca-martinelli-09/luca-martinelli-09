@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Redefine Meat: un nuovo orizzonte per l&#39;industria della carne](https://www.dentrolatecnologia.it/S6E52)
 - [Gli algoritmi che ci conoscono meglio di quanto pensiamo](https://www.dentrolatecnologia.it/S6E51)
 - [UNGUESS: il ruolo dei test di performance nell’esperienza digitale](https://www.dentrolatecnologia.it/S6E50)
 - [Riprogettare gli imballaggi per salvare il pianeta](https://www.dentrolatecnologia.it/S6E49)
 - [Cosmico: l’incontro tra talenti e aziende facilitato dall’IA](https://www.dentrolatecnologia.it/S6E48)
-- [Quando la tecnologia si intreccia con il tessuto](https://www.dentrolatecnologia.it/S6E47)
 <!-- INSIDER:END -->
