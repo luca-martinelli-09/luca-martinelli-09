@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [USB-C, il connettore che ha unificato l’Europa](https://www.dentrolatecnologia.it/S7E3)
 - [Boston Dynamics: robot con Intelligenza Atletica e le sfide nell’uso dell&#39;IA](https://www.dentrolatecnologia.it/S7E2)
 - [Cosa aspettarsi dal 2025](https://www.dentrolatecnologia.it/S7E1)
 - [Redefine Meat: un nuovo orizzonte per l&#39;industria della carne](https://www.dentrolatecnologia.it/S6E52)
 - [Gli algoritmi che ci conoscono meglio di quanto pensiamo](https://www.dentrolatecnologia.it/S6E51)
-- [UNGUESS: il ruolo dei test di performance nell’esperienza digitale](https://www.dentrolatecnologia.it/S6E50)
 <!-- INSIDER:END -->
