@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Arduino: la scheda che ha acceso la passione per l’elettronica](https://www.dentrolatecnologia.it/S7E10)
 - [Come addestrare un&#39;IA quando i dati non bastano](https://www.dentrolatecnologia.it/S7E9)
 - [UNGUESS: prevenire gli attacchi informatici con il Bug Bounty](https://www.dentrolatecnologia.it/S7E8)
 - [Cavi sottomarini, le arterie digitali che connettono il pianeta](https://www.dentrolatecnologia.it/S7E7)
 - [Vekoma: la tecnologia dietro il brivido delle montagne russe](https://www.dentrolatecnologia.it/S7E6)
-- [Perché dovremmo fidarci dell&#39;IA?](https://www.dentrolatecnologia.it/S7E5)
 <!-- INSIDER:END -->
