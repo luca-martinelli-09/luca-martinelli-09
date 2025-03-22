@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Jabra: perché la qualità del suono è essenziale per il lavoro ibrido?](https://www.dentrolatecnologia.it/S7E12)
 - [Il dualismo dei GNSS tra applicazioni civili e militari](https://www.dentrolatecnologia.it/S7E11)
 - [Arduino: la scheda che ha acceso la passione per l’elettronica](https://www.dentrolatecnologia.it/S7E10)
 - [Come addestrare un&#39;IA quando i dati non bastano](https://www.dentrolatecnologia.it/S7E9)
 - [UNGUESS: prevenire gli attacchi informatici con il Bug Bounty](https://www.dentrolatecnologia.it/S7E8)
-- [Cavi sottomarini, le arterie digitali che connettono il pianeta](https://www.dentrolatecnologia.it/S7E7)
 <!-- INSIDER:END -->
