@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [L’evoluzione tecnologica dei caccia militari](https://www.dentrolatecnologia.it/S7E15)
 - [Chaos: il futuro del cinema tra virtual stage e ray tracing](https://www.dentrolatecnologia.it/S7E14)
 - [L&#39;Open Source Intelligence nell&#39;era digitale](https://www.dentrolatecnologia.it/S7E13)
 - [Jabra: perché la qualità del suono è essenziale per il lavoro ibrido?](https://www.dentrolatecnologia.it/S7E12)
 - [Il dualismo dei GNSS tra applicazioni civili e militari](https://www.dentrolatecnologia.it/S7E11)
-- [Arduino: la scheda che ha acceso la passione per l’elettronica](https://www.dentrolatecnologia.it/S7E10)
 <!-- INSIDER:END -->
