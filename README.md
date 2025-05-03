@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [D-Air Lab: la tecnologia degli airbag indossabili entra nella quotidianità](https://www.dentrolatecnologia.it/S7E18)
 - [La Tecnologia che copia la Natura](https://www.dentrolatecnologia.it/S7E17)
 - [AI WEEK: a che punto siamo con l’intelligenza artificiale?](https://www.dentrolatecnologia.it/S7E16)
 - [L’evoluzione tecnologica dei caccia militari](https://www.dentrolatecnologia.it/S7E15)
 - [Chaos: il futuro del cinema tra virtual stage e ray tracing](https://www.dentrolatecnologia.it/S7E14)
-- [L&#39;Open Source Intelligence nell&#39;era digitale](https://www.dentrolatecnologia.it/S7E13)
 <!-- INSIDER:END -->
