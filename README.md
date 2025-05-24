@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Un futuro interoperabile, dall&#39;Industria 4.0 ai servizi per il cittadino](https://www.dentrolatecnologia.it/S7E21)
 - [Prospettive sul futuro dall’AI WEEK](https://www.dentrolatecnologia.it/S7E20)
 - [Le monoposto di Formula 1, tra presente e futuro](https://www.dentrolatecnologia.it/S7E19)
 - [D-Air Lab: la tecnologia degli airbag indossabili entra nella quotidianità](https://www.dentrolatecnologia.it/S7E18)
 - [La Tecnologia che copia la Natura](https://www.dentrolatecnologia.it/S7E17)
-- [AI WEEK: a che punto siamo con l’intelligenza artificiale?](https://www.dentrolatecnologia.it/S7E16)
 <!-- INSIDER:END -->
