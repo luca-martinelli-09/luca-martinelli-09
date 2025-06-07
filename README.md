@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Gli effetti dell&#39;iperconnettività sulla salute mentale](https://www.dentrolatecnologia.it/S7E23)
 - [VirtuAlp: la realtà virtuale che porta le Alpi ovunque tu sia](https://www.dentrolatecnologia.it/S7E22)
 - [Un futuro interoperabile, dall&#39;Industria 4.0 ai servizi per il cittadino](https://www.dentrolatecnologia.it/S7E21)
 - [Prospettive sul futuro dall’AI WEEK](https://www.dentrolatecnologia.it/S7E20)
 - [Le monoposto di Formula 1, tra presente e futuro](https://www.dentrolatecnologia.it/S7E19)
-- [D-Air Lab: la tecnologia degli airbag indossabili entra nella quotidianità](https://www.dentrolatecnologia.it/S7E18)
 <!-- INSIDER:END -->
