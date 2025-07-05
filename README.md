@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [La riparabilità contro la tecnologia usa e getta](https://www.dentrolatecnologia.it/S7E27)
 - [Lo smartphone non ha bisogno di ascoltare per sapere tutto di noi](https://www.dentrolatecnologia.it/S7E26)
 - [Ingannare l’IA con gli adversarial attacks](https://www.dentrolatecnologia.it/S7E25)
 - [KONE: l’evoluzione degli ascensori tra dati e manutenzione predittiva](https://www.dentrolatecnologia.it/S7E24)
 - [Gli effetti dell&#39;iperconnettività sulla salute mentale](https://www.dentrolatecnologia.it/S7E23)
-- [VirtuAlp: la realtà virtuale che porta le Alpi ovunque tu sia](https://www.dentrolatecnologia.it/S7E22)
 <!-- INSIDER:END -->
