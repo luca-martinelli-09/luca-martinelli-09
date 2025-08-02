@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Cosa devo fare se perdo il telefono?](https://www.dentrolatecnologia.it/S7E31)
 - [EY: la formazione è il vero motore dell’IA](https://www.dentrolatecnologia.it/S7E30)
 - [Con gli influencer virtuali si chiude l’era dell’umano?](https://www.dentrolatecnologia.it/S7E29)
 - [Insta360: reinventare i video da ogni angolo e in ogni formato](https://www.dentrolatecnologia.it/S7E28)
 - [La riparabilità contro la tecnologia usa e getta](https://www.dentrolatecnologia.it/S7E27)
-- [Lo smartphone non ha bisogno di ascoltare per sapere tutto di noi](https://www.dentrolatecnologia.it/S7E26)
 <!-- INSIDER:END -->
