@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Quanto inquina Internet?](https://www.dentrolatecnologia.it/S7E34)
 - [Quando il 5G non è in realtà 5G](https://www.dentrolatecnologia.it/S7E33)
 - [Le telecamere IP sono un rischio per la privacy](https://www.dentrolatecnologia.it/S7E32)
 - [Cosa devo fare se perdo il telefono?](https://www.dentrolatecnologia.it/S7E31)
 - [EY: la formazione è il vero motore dell’IA](https://www.dentrolatecnologia.it/S7E30)
-- [Con gli influencer virtuali si chiude l’era dell’umano?](https://www.dentrolatecnologia.it/S7E29)
 <!-- INSIDER:END -->
