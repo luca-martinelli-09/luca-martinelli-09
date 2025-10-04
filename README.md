@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Cereal Docks: cosa mangeremo nel prossimo futuro?](https://www.dentrolatecnologia.it/S7E40)
 - [Come i computer comprendono la nostra voce](https://www.dentrolatecnologia.it/S7E39)
 - [Rocket Digital: come la tecnologia accelera l’internazionalizzazione dei brand](https://www.dentrolatecnologia.it/S7E38)
 - [Abbiamo bisogno di un’IA “Made in Italy”?](https://www.dentrolatecnologia.it/S7E37)
 - [Microsoft: 50 anni di innovazione e il presente dell’intelligenza artificiale](https://www.dentrolatecnologia.it/S7E36)
-- [Le nuove misure contro le chiamate spam](https://www.dentrolatecnologia.it/S7E35)
 <!-- INSIDER:END -->
