@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Clinica Baviera: la tecnologia al servizio della salute degli occhi](https://www.dentrolatecnologia.it/S7E42)
 - [Il tempo libero nell’era dell’iperproduttività](https://www.dentrolatecnologia.it/S7E41)
 - [Cereal Docks: cosa mangeremo nel prossimo futuro?](https://www.dentrolatecnologia.it/S7E40)
 - [Come i computer comprendono la nostra voce](https://www.dentrolatecnologia.it/S7E39)
 - [Rocket Digital: come la tecnologia accelera l’internazionalizzazione dei brand](https://www.dentrolatecnologia.it/S7E38)
-- [Abbiamo bisogno di un’IA “Made in Italy”?](https://www.dentrolatecnologia.it/S7E37)
 <!-- INSIDER:END -->
