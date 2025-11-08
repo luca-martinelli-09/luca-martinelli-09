@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [La battaglia tra adblocker e pubblicità sta per finire?](https://www.dentrolatecnologia.it/S7E45)
 - [Workday: il futuro del recruiting tra algoritmi e persone](https://www.dentrolatecnologia.it/S7E44)
 - [La sicurezza nelle centrali nucleari](https://www.dentrolatecnologia.it/S7E43)
 - [Clinica Baviera: la tecnologia al servizio della salute degli occhi](https://www.dentrolatecnologia.it/S7E42)
 - [Il tempo libero nell’era dell’iperproduttività](https://www.dentrolatecnologia.it/S7E41)
-- [Cereal Docks: cosa mangeremo nel prossimo futuro?](https://www.dentrolatecnologia.it/S7E40)
 <!-- INSIDER:END -->
