@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Cosa aspettarsi dal prossimo Black Friday](https://www.dentrolatecnologia.it/S7E47)
 - [CNAO: l’intelligenza artificiale può supportare l’adroterapia oncologica?](https://www.dentrolatecnologia.it/S7E46)
 - [La battaglia tra adblocker e pubblicità sta per finire?](https://www.dentrolatecnologia.it/S7E45)
 - [Workday: il futuro del recruiting tra algoritmi e persone](https://www.dentrolatecnologia.it/S7E44)
 - [La sicurezza nelle centrali nucleari](https://www.dentrolatecnologia.it/S7E43)
-- [Clinica Baviera: la tecnologia al servizio della salute degli occhi](https://www.dentrolatecnologia.it/S7E42)
 <!-- INSIDER:END -->
