@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [E se un tasto fosse meglio di uno schermo?](https://www.dentrolatecnologia.it/S7E49)
 - [Vivere fuori dalla nuvola. È possibile?](https://www.dentrolatecnologia.it/S7E48)
 - [Cosa aspettarsi dal prossimo Black Friday](https://www.dentrolatecnologia.it/S7E47)
 - [CNAO: l’intelligenza artificiale può supportare l’adroterapia oncologica?](https://www.dentrolatecnologia.it/S7E46)
 - [La battaglia tra adblocker e pubblicità sta per finire?](https://www.dentrolatecnologia.it/S7E45)
-- [Workday: il futuro del recruiting tra algoritmi e persone](https://www.dentrolatecnologia.it/S7E44)
 <!-- INSIDER:END -->
