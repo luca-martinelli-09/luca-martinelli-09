@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Cosa aspettarsi dal 2026](https://www.dentrolatecnologia.it/S8E1)
 - [Sis ID: la sfida della sicurezza nei pagamenti istantanei europei](https://www.dentrolatecnologia.it/S7E52)
 - [L’innevamento artificiale per salvare il Bianco Natale](https://www.dentrolatecnologia.it/S7E51)
 - [AIPARK: come dati, IoT e app stanno trasformando la sosta](https://www.dentrolatecnologia.it/S7E50)
 - [E se un tasto fosse meglio di uno schermo?](https://www.dentrolatecnologia.it/S7E49)
-- [Vivere fuori dalla nuvola. È possibile?](https://www.dentrolatecnologia.it/S7E48)
 <!-- INSIDER:END -->
