@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Gli smartphone hanno reso le webcam obsolete?](https://www.dentrolatecnologia.it/S8E3)
 - [Brainyware: l’intelligenza artificiale che resta in azienda](https://www.dentrolatecnologia.it/S8E2)
 - [Cosa aspettarsi dal 2026](https://www.dentrolatecnologia.it/S8E1)
 - [Sis ID: la sfida della sicurezza nei pagamenti istantanei europei](https://www.dentrolatecnologia.it/S7E52)
 - [L’innevamento artificiale per salvare il Bianco Natale](https://www.dentrolatecnologia.it/S7E51)
-- [AIPARK: come dati, IoT e app stanno trasformando la sosta](https://www.dentrolatecnologia.it/S7E50)
 <!-- INSIDER:END -->
