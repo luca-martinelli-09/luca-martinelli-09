@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [QuestIT: l’onboarding aziendale assistito dall’IA](https://www.dentrolatecnologia.it/S8E6)
 - [Quanto sono sicuri gli edifici di oggi?](https://www.dentrolatecnologia.it/S8E5)
 - [FRRB: la nuova frontiera tecnologica della ricerca](https://www.dentrolatecnologia.it/S8E4)
 - [Gli smartphone hanno reso le webcam obsolete?](https://www.dentrolatecnologia.it/S8E3)
 - [Brainyware: l’intelligenza artificiale che resta in azienda](https://www.dentrolatecnologia.it/S8E2)
-- [Cosa aspettarsi dal 2026](https://www.dentrolatecnologia.it/S8E1)
 <!-- INSIDER:END -->
