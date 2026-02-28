@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Videogiochi e copyright nell’era dell’IA](https://www.dentrolatecnologia.it/S8E9)
 - [Dai repair café agli hub europei per la riparazione](https://www.dentrolatecnologia.it/S8E8)
 - [Internet è diventato più fragile?](https://www.dentrolatecnologia.it/S8E7)
 - [QuestIT: l’onboarding aziendale assistito dall’IA](https://www.dentrolatecnologia.it/S8E6)
 - [Quanto sono sicuri gli edifici di oggi?](https://www.dentrolatecnologia.it/S8E5)
-- [FRRB: la nuova frontiera tecnologica della ricerca](https://www.dentrolatecnologia.it/S8E4)
 <!-- INSIDER:END -->
