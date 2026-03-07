@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Planet Farms: l&#39;agricoltura verticale che produce verdura di qualità](https://www.dentrolatecnologia.it/S8E10)
 - [Videogiochi e copyright nell’era dell’IA](https://www.dentrolatecnologia.it/S8E9)
 - [Dai repair café agli hub europei per la riparazione](https://www.dentrolatecnologia.it/S8E8)
 - [Internet è diventato più fragile?](https://www.dentrolatecnologia.it/S8E7)
 - [QuestIT: l’onboarding aziendale assistito dall’IA](https://www.dentrolatecnologia.it/S8E6)
-- [Quanto sono sicuri gli edifici di oggi?](https://www.dentrolatecnologia.it/S8E5)
 <!-- INSIDER:END -->
