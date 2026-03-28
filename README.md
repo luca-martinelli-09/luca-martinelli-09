@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [La tecnologia non è infallibile, ma va bene così](https://www.dentrolatecnologia.it/S8E13)
 - [CINECA: Leonardo, il supercomputer che accelera scienza e industria](https://www.dentrolatecnologia.it/S8E12)
 - [Dai DVD allo streaming, 30 anni di lotta alla pirateria digitale](https://www.dentrolatecnologia.it/S8E11)
 - [Planet Farms: l&#39;agricoltura verticale che produce verdura di qualità](https://www.dentrolatecnologia.it/S8E10)
 - [Videogiochi e copyright nell’era dell’IA](https://www.dentrolatecnologia.it/S8E9)
-- [Dai repair café agli hub europei per la riparazione](https://www.dentrolatecnologia.it/S8E8)
 <!-- INSIDER:END -->
