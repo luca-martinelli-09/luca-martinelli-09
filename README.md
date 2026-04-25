@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Siamo più vicini alla Luna che ai fondali oceanici](https://www.dentrolatecnologia.it/S8E17)
 - [Wikimedia: il motore della conoscenza libera sul web](https://www.dentrolatecnologia.it/S8E16)
 - [Il muro invisibile che divide Internet](https://www.dentrolatecnologia.it/S8E15)
 - [Dyson: quando il flusso d’aria diventa tecnologia](https://www.dentrolatecnologia.it/S8E14)
 - [La tecnologia non è infallibile, ma va bene così](https://www.dentrolatecnologia.it/S8E13)
-- [CINECA: Leonardo, il supercomputer che accelera scienza e industria](https://www.dentrolatecnologia.it/S8E12)
 <!-- INSIDER:END -->
