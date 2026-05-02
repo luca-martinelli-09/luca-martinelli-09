@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [NExT Modular Vehicles: ripensare la mobilità in chiave modulare](https://www.dentrolatecnologia.it/S8E18)
 - [Siamo più vicini alla Luna che ai fondali oceanici](https://www.dentrolatecnologia.it/S8E17)
 - [Wikimedia: il motore della conoscenza libera sul web](https://www.dentrolatecnologia.it/S8E16)
 - [Il muro invisibile che divide Internet](https://www.dentrolatecnologia.it/S8E15)
 - [Dyson: quando il flusso d’aria diventa tecnologia](https://www.dentrolatecnologia.it/S8E14)
-- [La tecnologia non è infallibile, ma va bene così](https://www.dentrolatecnologia.it/S8E13)
 <!-- INSIDER:END -->
