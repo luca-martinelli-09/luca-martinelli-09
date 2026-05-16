@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Raspberry Pi: un piccolo computer che sta cambiando il modo di innovare](https://www.dentrolatecnologia.it/S8E20)
 - [Riconoscere contenuti generati dall&#39;IA. È ancora possibile?](https://www.dentrolatecnologia.it/S8E19)
 - [NExT Modular Vehicles: ripensare la mobilità in chiave modulare](https://www.dentrolatecnologia.it/S8E18)
 - [Siamo più vicini alla Luna che ai fondali oceanici](https://www.dentrolatecnologia.it/S8E17)
 - [Wikimedia: il motore della conoscenza libera sul web](https://www.dentrolatecnologia.it/S8E16)
-- [Il muro invisibile che divide Internet](https://www.dentrolatecnologia.it/S8E15)
 <!-- INSIDER:END -->
