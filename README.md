@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [AllTrails: come la tecnologia ha trasformato le escursioni](https://www.dentrolatecnologia.it/S8E24)
 - [Il vibe coding renderà Internet meno sicuro?](https://www.dentrolatecnologia.it/S8E23)
 - [iFixit: il miglior prodotto di sempre, finché non lo ripari](https://www.dentrolatecnologia.it/S8E22)
 - [La qualità di un video inizia dal suono](https://www.dentrolatecnologia.it/S8E21)
 - [Raspberry Pi: un piccolo computer che sta cambiando il modo di innovare](https://www.dentrolatecnologia.it/S8E20)
-- [Riconoscere contenuti generati dall&#39;IA. È ancora possibile?](https://www.dentrolatecnologia.it/S8E19)
 <!-- INSIDER:END -->
