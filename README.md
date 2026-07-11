@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Smiths Detection: la tomografia computerizzata nei controlli di sicurezza](https://www.dentrolatecnologia.it/S8E28)
 - [Museo Egizio: cosa accade a un reperto quando viene estratto dal terreno?](https://www.dentrolatecnologia.it/S8E27)
 - [Museo Egizio: il lavoro dell&#39;archeologo tra scavi e rivoluzione digitale](https://www.dentrolatecnologia.it/S8E26)
 - [L’evoluzione tecnologica degli stadi sportivi](https://www.dentrolatecnologia.it/S8E25)
 - [AllTrails: come la tecnologia ha trasformato le escursioni](https://www.dentrolatecnologia.it/S8E24)
-- [Il vibe coding renderà Internet meno sicuro?](https://www.dentrolatecnologia.it/S8E23)
 <!-- INSIDER:END -->
