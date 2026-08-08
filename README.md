@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [I furti col POS sono davvero un pericolo?](https://www.dentrolatecnologia.it/S8E32)
 - [Blackout estivi, ma la colpa non è del climatizzatore](https://www.dentrolatecnologia.it/S8E31)
 - [Mirai: il futuro autonomo delle missioni marittime](https://www.dentrolatecnologia.it/S8E30)
 - [Perché l&#39;intelligenza artificiale scrive in Markdown?](https://www.dentrolatecnologia.it/S8E29)
 - [Smiths Detection: la tomografia computerizzata nei controlli di sicurezza](https://www.dentrolatecnologia.it/S8E28)
-- [Museo Egizio: cosa accade a un reperto quando viene estratto dal terreno?](https://www.dentrolatecnologia.it/S8E27)
 <!-- INSIDER:END -->
