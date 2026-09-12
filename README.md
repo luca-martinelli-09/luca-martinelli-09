@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Desalinizzare l’acqua non salverà l’agricoltura](https://www.dentrolatecnologia.it/S8E37)
 - [INPS: come riprogettare un’esperienza digitale per milioni di cittadini](https://www.dentrolatecnologia.it/S8E36)
 - [Sony abbandona i dischi fisici](https://www.dentrolatecnologia.it/S8E35)
 - [Quanto conosciamo davvero la &quot;mente&quot; delle IA?](https://www.dentrolatecnologia.it/S8E34)
 - [Il miracolo spaziale delle sonde Voyager](https://www.dentrolatecnologia.it/S8E33)
-- [I furti col POS sono davvero un pericolo?](https://www.dentrolatecnologia.it/S8E32)
 <!-- INSIDER:END -->
