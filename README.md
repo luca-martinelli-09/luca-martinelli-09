@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [AREU: l’infrastruttura tecnologica del Numero Unico di Emergenza 112](https://www.dentrolatecnologia.it/S8E40)
 - [Come si protegge Internet da un computer che ancora non esiste](https://www.dentrolatecnologia.it/S8E39)
 - [Easyvia: la manutenzione predittiva delle strade guidata dai dati](https://www.dentrolatecnologia.it/S8E38)
 - [Desalinizzare l’acqua non salverà l’agricoltura](https://www.dentrolatecnologia.it/S8E37)
 - [INPS: come riprogettare un’esperienza digitale per milioni di cittadini](https://www.dentrolatecnologia.it/S8E36)
-- [Sony abbandona i dischi fisici](https://www.dentrolatecnologia.it/S8E35)
 <!-- INSIDER:END -->
