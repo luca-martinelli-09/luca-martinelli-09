@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [MYmovies: nuovi linguaggi per raccontare il cinema](https://www.dentrolatecnologia.it/S8E42)
 - [Nessuna barriera salverà Venezia da sola](https://www.dentrolatecnologia.it/S8E41)
 - [AREU: l’infrastruttura tecnologica del Numero Unico di Emergenza 112](https://www.dentrolatecnologia.it/S8E40)
 - [Come si protegge Internet da un computer che ancora non esiste](https://www.dentrolatecnologia.it/S8E39)
 - [Easyvia: la manutenzione predittiva delle strade guidata dai dati](https://www.dentrolatecnologia.it/S8E38)
-- [Desalinizzare l’acqua non salverà l’agricoltura](https://www.dentrolatecnologia.it/S8E37)
 <!-- INSIDER:END -->
