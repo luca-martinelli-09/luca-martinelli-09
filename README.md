@@ -21,9 +21,9 @@
 ## [INSiDER - Dentro la Tecnologia](https://www.dentrolatecnologia.it)
 ### Latest episodes
 <!-- INSIDER:START -->
+- [Perchè l’IA non sa ottimizzare i videogiochi?](https://www.dentrolatecnologia.it/S8E46)
 - [Aardman: tecnologia e stop motion, un fotogramma alla volta](https://www.dentrolatecnologia.it/S8E45)
 - [Dainese: l’airbag in moto potrà diffondersi come il casco?](https://www.dentrolatecnologia.it/S8E44)
 - [I cypherpunk scrivono codice](https://www.dentrolatecnologia.it/S8E43)
 - [MYmovies: nuovi linguaggi per raccontare il cinema](https://www.dentrolatecnologia.it/S8E42)
-- [Nessuna barriera salverà Venezia da sola](https://www.dentrolatecnologia.it/S8E41)
 <!-- INSIDER:END -->
